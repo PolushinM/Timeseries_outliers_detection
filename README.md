@@ -73,5 +73,5 @@
 #### Модель детекции аномалий с "динамическим порогом":
 Стоит посмотреть на график ошибки модели и график условной ошибки при использовании второй модели, контролирующей ошибку. В первом случае - редкие большие выбросы только в определённых режимах работы. \
 Во втором случае видно, что распределение намного более равномерное, а значит, модель будет чувствительна также и к изменению поведения системы в спокойных режимах 2 и 4. Возможно, что она сможет зафиксировать и небольшое изменение скорости нагрева/охлаждения.
-![Static](https://github.com/PolushinM/Timeseries_outliers_detection/blob/main/Static.png)
-![Dynamic](https://github.com/PolushinM/Timeseries_outliers_detection/blob/main/Dynamic.png)
+![Static](https://github.com/PolushinM/Timeseries_outliers_detection/blob/master/Static.jpg)
+![Dynamic](https://github.com/PolushinM/Timeseries_outliers_detection/blob/master/Dinamic.jpg)
